@@ -6,7 +6,7 @@ conda env create -f environment.yml
 ```
 **Step 2. Download processed fer2013 files from this link**
 ```
-https://www.dropbox.com/sh/h8lhp9mw81xyvqk/AADy7GxUGk5ooL68I_nUZe77a?dl=0
+https://1drv.ms/u/s!AmeTT2EpSz40hRqiMtsU_Fc2h7K3?e=6rlCkY
 ```
 **The original dataset can be found from this link**
 ```
